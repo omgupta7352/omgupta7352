@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omgupta7352](https://github.com/omgupta7352)
 
-- 👨‍💻 My Portfolio at [https://om-gupta-portfolio.netlify.app/](https://om-gupta-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio at [https://om-gupta.netlify.app/](https://om-gupta.netlify.app/)
 
 - 💬 Ask me about **Programming and Web Development**
 
