@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgupta7352&label=Profile%20views&color=0e75b6&style=flat" alt="omgupta7352" /> </p>
 
-- 🔭 I’m currently working on **Programming and Web Development**
+- 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **ReactJs,NodeJs**
+- 🌱 I’m currently working on **ReactJs,NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omgupta7352](https://github.com/omgupta7352)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ashuomg7352@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3ne6PTe](https://bit.ly/3ne6PTe)
+- 📄 Know about my experiences [Resume](https://bit.ly/4bdBqnG)
 
 - ⚡ Fun fact **I love to play Uno , Chess**
 
