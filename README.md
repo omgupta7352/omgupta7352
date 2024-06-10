@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently working on **ReactJs,NodeJs**
+- 🌱 I’m currently working on **Java, Spring, API, ReactJs, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omgupta7352](https://github.com/omgupta7352)
 
