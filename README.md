@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently working on **Java, Spring, API, ReactJs, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omgupta7352](https://github.com/omgupta7352)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/omgupta7352)
 
-- 👨‍💻 My Portfolio at [https://om-gupta.netlify.app/](https://om-gupta.netlify.app/)
+- 👨‍💻 My Portfolio at [Portfolio](https://om-gupta.netlify.app/)
 
 - 💬 Ask me about **Programming and Web Development**
 
