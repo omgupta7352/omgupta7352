@@ -1,14 +1,14 @@
 ![MasterHead](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
 <h1 align="center">Hi 👋, I'm Om Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*5CZwLt-HSxgaztHi-lxs3g.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgupta7352&label=Profile%20views&color=0e75b6&style=flat" alt="omgupta7352" /> </p>
 
-- 🔭 I’m currently working as a **Software Developer**
+- 🔭 I’m currently working as a **Software Developer Engineer**
 
-- 🌱 I’m currently working on **Java, Spring, API, ReactJs, Docker**
+- 🌱 I’m currently working on **Java, Spring, API, ReactJs, Docker, SQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/omgupta7352)
 
