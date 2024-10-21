@@ -97,6 +97,9 @@
    <a href="https://www.kubernetes.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="java" width="40" height="40"/> 
   </a> 
+   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
 </p>
 
 
