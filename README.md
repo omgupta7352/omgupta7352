@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on **Java, Spring, API, ReactJs, Docker, SQL, MongoDB**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/omgupta7352)
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/omgupta7352)**
 
 - 👨‍💻 My Portfolio at [Portfolio](https://om-gupta.netlify.app/)
 
