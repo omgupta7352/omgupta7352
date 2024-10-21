@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences **[Resume](https://bit.ly/4bdBqnG)**
 
-- ⚡ Fun fact **I love to play Uno , Chess**
+- ⚡ Fun fact **I love to play Uno, Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
