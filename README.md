@@ -21,8 +21,7 @@
 - 📄 Know about my experiences **[Resume](https://bit.ly/4bdBqnG)**
 
 - ⚡ Fun fact **I love to play Uno, Chess**
-
-<br>
+<hr>
 
 ###  👨‍💻Connect with me:
 <p align="left">
@@ -33,7 +32,7 @@
 <a href="https://codeforces.com/profile/omgupta7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omgupta7352" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omgupta7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omgupta7352" height="30" width="40" /></a>
 </p>
-<br>
+<hr>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 
