@@ -78,13 +78,6 @@
   </a> 
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40" />
-</a>
-  <a href="https://getbootstrap.com/" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="40" height="40">
-    <rect width="100%" height="100%" rx="48" fill="#7952B3"/>
-    <path d="M170.7 123.7c-4.9-4.6-11.4-6.9-19.7-6.9h-22.2V91.8h21.4c8.3 0 14.8-2.2 19.7-6.7 4.9-4.5 7.4-10.6 7.4-18.1 0-8.5-3.1-15.2-9.2-20-6.1-4.8-14.4-7.2-25.1-7.2H84v138.6h60.1c10.6 0 19.2-2.7 25.8-8.1 6.5-5.4 9.8-12.7 9.8-21.7.1-8.5-2.4-15.3-7.2-19.9zm-41.9-54.6h15.7c6.4 0 11.1 1.1 14.2 3.4 3.1 2.2 4.7 5.8 4.7 10.5 0 5.1-1.6 8.7-4.7 10.8-3.1 2.1-7.7 3.2-13.7 3.2h-16.2v-27.9zm19.6 89.1h-19.6v-31.4H151c6.6 0 11.6 1.3 14.9 3.9 3.3 2.6 5 6.4 5 11.5.1 9.3-6.2 15.9-17.1 15.9z" fill="#fff"/>
-  </svg>
-</a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
@@ -119,7 +112,9 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
 </a>
-
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="color: purple;" />
+</a>
    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> 
 </a>
