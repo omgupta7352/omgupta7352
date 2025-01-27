@@ -123,6 +123,6 @@
 
 <hr>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omgupta7352&show_icons=true&locale=en&layout=compact" alt="omgupta7352" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omgupta7352&" alt="omgupta7352" /></p>
