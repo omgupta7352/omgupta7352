@@ -123,6 +123,8 @@
 
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta7352&layout=donut)](https://github.com/omgupta7352)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta7352&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omgupta7352&" alt="omgupta7352" /></p>
