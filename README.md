@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ashuomg7352@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://bit.ly/4bdBqnG)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1L1XADHCQ-q6SWFFT5KDg_Ynd3Lmp1hvR/view?usp=drive_link)**
 
 - ⚡ Fun fact **I love to play Uno, Chess**
 <hr>
