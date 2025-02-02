@@ -6,6 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgupta7352&label=Profile%20views&color=0e75b6&style=flat" alt="omgupta7352" /> </p>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?usernameomgupta7352&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta7352&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
+</div>
+
 - 🔭 I’m currently working as a **Software Developer Engineer**
 
 - 🌱 I’m currently working on **Java, Spring, API, ReactJs, Docker, SQL, MongoDB**
