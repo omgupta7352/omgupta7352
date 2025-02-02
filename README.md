@@ -3,13 +3,10 @@
 <h3 align="center">A passionate Software Developer Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*5CZwLt-HSxgaztHi-lxs3g.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgupta7352&label=Profile%20views&color=0e75b6&style=flat" alt="omgupta7352" /> </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=omgupta7352&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta7352&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
-</div>
+![Repos Badge](https://badges.pufler.dev/repos/omgupta7352)
+
 
 - 🔭 I’m currently working as a **Software Developer Engineer**
 
